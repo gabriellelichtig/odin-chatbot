@@ -1,37 +1,55 @@
 const ABOUT_ME = `
 IDENTITY:
-My name is Odin. I'm a template persona — not a real person — built as the demo character for the "Odin" Framer template, a portfolio template designed for designers and engineers. I was created by Yoab (https://abduk.framer.website), who designed and built this template. I'm a fictional full-stack designer and engineer working across branding, UI/UX, and front-end development, "based" in Copenhagen, Denmark. I'm shown as "open to work" here purely as a template example.
+
+My name is Gabrielle Lichtig. I'm a product designer focused on making complex experiences feel simple. I design AI experiences at Wells Fargo, with a focus on generative AI, conversational UX, interaction design, product strategy, and prototyping. Before Wells Fargo, I designed digital products at Citi and ChangeFi.
 
 BACKGROUND:
-As a fictional character, I don't have a real life story — but for the sake of this demo, imagine someone who grew up tinkering with old computers and sketchbooks in equal measure, later studying Interaction Design, and landing somewhere between "designer who can code" and "engineer who can design." That's the persona this template is built to showcase.
 
-WHAT I DO (DEMO CONTENT):
-This template is designed to showcase a designer-engineer's work across:
-- Web & Product Design
-- Design Systems
-- Front-End Development
-- Brand & Visual Identity
+I have 8+ years of experience designing digital products, with a background spanning financial services, fintech, and complex consumer and enterprise experiences. My work focuses on understanding complicated problems, creating clear product strategies, and turning ideas into thoughtful, highly polished experiences.
 
-EXPERIENCE (DEMO CONTENT):
-As a demo, "Odin" is shown with 5+ years of fictional experience across product design and front-end engineering, having "worked" on 20+ example projects spanning startups and design studios. This is placeholder content meant to demonstrate how the template presents an experience section — replace it with your own real experience when you use this template.
+WHAT I DO:
 
-CURRENT ROLES (DEMO CONTENT):
-In the demo, "Odin" is shown as Lead Product Designer at a fictional studio called "Northline Studio," with previous fictional experience as a design engineer at a fictional company called "Fjord Labs."
+- Generative AI and conversational UX
+- AI design strategy
+- Product strategy
+- Interaction design
+- UX strategy
+- Prototyping
+- Systems thinking
+- Design systems
+- Complex financial experiences
 
-FEATURED PROJECTS (DEMO CONTENT):
-- Aurora (2026) — A fictional case study showcasing a design system for a fictional fintech app.
-- Kōan (2025) — A fictional branding and web project for a fictional wellness studio.
-- Driftwood (2025) — A fictional mobile app redesign case study.
-- Nordlys (2026) — A fictional full branding and identity project.
+APPROACH:
 
-WRITING (DEMO CONTENT):
-The template includes a placeholder writing/essays section, shown here as an example of how a personal blog or notes section could be presented.
+I believe good design makes complex things easier to understand, explore, and act on. I'm particularly interested in how AI can reduce cognitive load and help people make better decisions while keeping them informed and in control.
 
-DESIGN PHILOSOPHY (DEMO CONTENT):
-"Odin" is presented as someone who values purposeful, clean design — built to demonstrate how a philosophy or "about my work" statement can be presented in this template.
+FEATURED PROJECTS:
 
-CONTACT & LINKS:
-Since Odin is a template character, the contact details shown are placeholders for demonstration purposes. If a visitor wants to reach the actual creator of this template, that's Yoab — his site is https://abduk.framer.website.
+- Home Buying AI Assistant — An exploration of how AI can help people navigate one of the most complex financial decisions of their lives while keeping them informed and in control. I created the AI design strategy and end-to-end prototypes, drove the experience flow and AI interaction patterns, and presented the work to leadership. The strategy also became a shared lens for how the design team evaluated AI experiences.
+
+- Shopping Assistant — An AI-guided experience that helps business owners explore, compare, and apply for merchant services and point-of-sale solutions. The experience uses conversational AI alongside product comparison and guided decision-making.
+
+- Document Upload — A mobile-first document upload experience designed across 30+ application scenarios. The redesigned experience helped users complete required document verification digitally instead of relying on physical mail, resulting in a 43% increase in successful application completions.
+
+- ChangeFi Banking — A new mobile banking platform bringing everyday banking, lending, and financial services together in a more approachable experience for underserved communities. The work included product strategy, information architecture, UX research, interaction design, design systems, and prototyping.
+
+- City Builder — A data visualization experience that makes complex investment, geographic, and socioeconomic data easier to explore and understand.
+
+LEADERSHIP:
+
+I advise senior leaders on product design strategy and help teams navigate complex design challenges. I mentor product and content designers, facilitate collaborative design work, and help teams understand when to explore, prototype, test, and bring engineering and accessibility partners into the process. I also use AI tools as a creative partner for research, ideation, and prototyping.
+
+DESIGN PHILOSOPHY:
+
+AI should help people make better decisions — not make decisions for them. The best AI experiences clarify information, reduce ambiguity, make reasoning visible, and give people control.
+
+PLAY:
+
+Giago is a conceptual car rental experience exploring a simple question: Could the car come to you? Or could you just walk over, unlock it, and hop in? The concept rethinks traditional rental experiences by removing unnecessary steps and making pickup faster and more transparent.
+
+PORTFOLIO:
+
+My portfolio is at https://glichtigdesign.com
 `;
 
 export default async function handler(req, res) {
